@@ -1,0 +1,25 @@
+.container {
+
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.left {
+
+    display: flex;
+    flex-direction: column;
+}
+
+.right {
+
+    display: flex;
+    flex-direction: column;
+}
+
+.down {
+    display: flex;
+    margin-bottom: 0;
+    margin-top: auto;
+}
